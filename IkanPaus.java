@@ -15,3 +15,8 @@ public class IkanPaus {
         System.out.println("Ikan paus badanya besar");
     }
 }
+
+// coba mengkopi ke editor github
+
+
+
